@@ -1,0 +1,12 @@
+h1 {font-size: 250%;
+color: rgb(0, 0, 0);
+text-align: center;
+}
+h1 {border-style: double ;
+border-color: red;
+border-width: 6px;
+} 
+#ima1 {margin-left: 20%;
+margin-right: 30%;
+width: 60%;
+}
